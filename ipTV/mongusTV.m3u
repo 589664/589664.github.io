@@ -1,15 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TNTMusic.ru" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="Music",ТНТ Music (1080p)
-http://83.222.205.65:8080/tntmusic/index.m3u8
 
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV (1080p)
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/512px-VIVA_2011_logo.svg.png" group-title="Music",VIVA Russia (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/512px-VIVA_2011_logo.svg.png" group-title="Music",VIVA Russia
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-
-#EXTINF:-1 tvg-id="FirstMusicChannel4K.by" tvg-logo="https://i.imgur.com/sUgj2s7.png" group-title="Music",Первый Музыкальный Канал 4K (2160p)
-http://rtmp.one.by:1499
 
 #EXTINF:-1 tvg-id="Vevo70s.us" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Music",Pluto TV VEVO 70's (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -19,9 +14,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 
 #EXTINF:-1 tvg-id="VevoCountry.us" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="Music",Pluto TV VEVO Country (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="VevoRB.us" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Music",Pluto TV VEVO R&B (1080p)
-https://service-stitcher.clusters.pluto.tv/v1/
 
 #EXTINF:-1 tvg-id="Vevo80s.us" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Music",Vevo 80s (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
@@ -35,24 +27,8 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 #EXTINF:-1 tvg-id="VevoPop.us" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Music",Vevo Pop Europe (1080p)
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
-#EXTINF:-1 tvg-id="MTVHitsFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" group-title="Music",MTV Hits France (720p) [Not 24/7]
-http://190.2.155.162:8080/mtvhit/mpegts
-
-#EXTINF:-1 tvg-id="MTVJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Music",MTV Japan (540p) [Not 24/7]
-http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MTVVietnam.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Music" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",MTV Vietnam (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="MTVPlutoTV.us" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="Music",Pluto TV MTV (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVMTVGermany.us" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="Music",Pluto TV MTV (Germany) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5caf325764025859afdd6c4d&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=2&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVMTVAreyoutheOne.us" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="Series",Pluto TV MTV Are you the One? (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",Pluto TV MTV Biggest Pop (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fd1a252d35decbc4080c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=870&terminate=false&userId=
@@ -102,4 +78,119 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f6
 #EXTINF:-1 tvg-id="VevoReggaetonTrap.us" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" group-title="Music",Pluto TV VEVO Reggeaton & Trap (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-name="Первый Музыкальный BY HD" group-title="Музыка", Первый Музыкальный BY HD
+#EXTGRP:Музыка
+http://rtmp.one.by:1300
 
+#EXTINF:-1 tvg-name="Первый Музыкальный BY Россия" group-title="Музыка", Первый Музыкальный BY Россия
+#EXTGRP:Музыка
+http://rtmp.one.by:2200
+
+#EXTINF:-1 tvg-name="Первый Музыкальный BY Россия HD" group-title="Музыка", Первый Музыкальный BY Россия HD
+#EXTGRP:Музыка
+http://rtmp.one.by:2300
+
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-name="MTV Block Party HD" group-title="Музыка", MTV Block Party HD
+#EXTGRP:Музыка
+
+#radio
+#EXTINF:-1 tvg-name="DFM TIЁSTO" group-title="Музыка", DFM TIЁSTO
+#EXTGRP:Музыка
+https://dfm-tiesto.hostingradio.ru/tiesto96.aacp
+#EXTINF:-1 tvg-name="DFM DAVID GUETTA" group-title="Музыка", DFM DAVID GUETTA
+#EXTGRP:Музыка
+http://dfm-guetta.hostingradio.ru/guetta96.aacp
+#EXTINF:-1 tvg-name="DFM ARMIN VAN BUUREN" group-title="Музыка", DFM ARMIN VAN BUUREN
+#EXTGRP:Музыка
+https://dfm-avburren.hostingradio.ru/avburren96.aacp
+#EXTINF:-1 tvg-name="DFM AVICII" group-title="Музыка", DFM AVICII
+#EXTGRP:Музыка
+https://dfm-avicii.hostingradio.ru/avicii96.aacp
+#EXTINF:-1 tvg-name="DFM SWEDISH HOUSE MAFIA" group-title="Музыка", DFM SWEDISH HOUSE MAFIA
+#EXTGRP:Музыка
+https://dfm-housemafia.hostingradio.ru/housemafia96.aacp
+#EXTINF:-1 tvg-name="DFM SKRILLEX" group-title="Музыка", DFM SKRILLEX
+#EXTGRP:Музыка
+https://dfm-skrillex.hostingradio.ru/skrillex96.aacp
+#EXTINF:-1 tvg-name="DFM POP DANCE" group-title="Музыка", DFM POP DANCE
+#EXTGRP:Музыка
+https://dfm-popdance.hostingradio.ru/popdance96.aacp
+#EXTINF:-1 tvg-name="DFM Remake" group-title="Музыка", DFM Remake
+#EXTGRP:Музыка
+https://dfm-remake.hostingradio.ru/remake96.aacp
+#EXTINF:-1 tvg-name="DANCE 101,2 FM" group-title="Музыка", DANCE 101,2 FM
+#EXTGRP:Музыка
+https://dfm.hostingradio.ru/dfm96.aacp
+#EXTINF:-1 tvg-name="DFM DanceHall Mix" group-title="Музыка", DFM DanceHall Mix
+#EXTGRP:Музыка
+https://dfm-dancehall.hostingradio.ru/dancehall96.aacp
+#EXTINF:-1 tvg-name="DFM INSOMNIA Mix" group-title="Музыка", DFM INSOMNIA Mix
+#EXTGRP:Музыка
+https://dfm-insomnia.hostingradio.ru/insomnia96.aacp
+#EXTINF:-1 tvg-name="DFM Club" group-title="Музыка", DFM Club
+#EXTGRP:Музыка
+https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp
+#EXTINF:-1 tvg-name="DFM PRTY" group-title="Музыка", DFM PRTY
+#EXTGRP:Музыка
+https://dfm-party.hostingradio.ru/dfmparty96.aacp
+#EXTINF:-1 tvg-name="DFM Deep" group-title="Музыка", DFM Deep
+#EXTGRP:Музыка
+https://dfm-dfmdeep.hostingradio.ru/dfmdeep96.aacp
+#EXTINF:-1 tvg-name="DFM Trance" group-title="Музыка", DFM Trance
+#EXTGRP:Музыка
+https://dfm-trance.hostingradio.ru/trance96.aacp
+#EXTINF:-1 tvg-name="DFM Slap Bass" group-title="Музыка", DFM Slap Bass
+#EXTGRP:Музыка
+https://dfm-slapbass.hostingradio.ru/slapbass96.aacp
+#EXTINF:-1 tvg-name="DFM Bass House" group-title="Музыка", DFM Bass House
+#EXTGRP:Музыка
+https://dfm-basshouse.hostingradio.ru/basshouse96.aacp
+#EXTINF:-1 tvg-name="FESTIVALS GOLD" group-title="Музыка", FESTIVALS GOLD
+#EXTGRP:Музыка
+https://dfm-festivalgold.hostingradio.ru/festivalgold96.aacp
+#EXTINF:-1 tvg-name="DFM DANCE GOLD 2010S" group-title="Музыка", DFM DANCE GOLD 2010S
+#EXTGRP:Музыка
+https://dfm-dancegold10.hostingradio.ru/dancegold1096.aacp
+#EXTINF:-1 tvg-name="DFM Dance Gold 2000s" group-title="Музыка", DFM Dance Gold 2000s
+#EXTGRP:Музыка
+https://dfm-dancegold00.hostingradio.ru/dancegold0096.aacp
+#EXTINF:-1 tvg-name="DFM Pop Gold 1990s" group-title="Музыка", DFM Pop Gold 1990s
+#EXTGRP:Музыка
+https://dfm-popgold90.hostingradio.ru/popgold9096.aacp
+#EXTINF:-1 tvg-name="DFM Dance Gold" group-title="Музыка", DFM Dance Gold
+#EXTGRP:Музыка
+https://dfm-liquid.hostingradio.ru/liquid96.aacp
+#EXTINF:-1 tvg-name="DFM Disco" group-title="Музыка", DFM Disco
+#EXTGRP:Музыка
+https://dfm-disco.hostingradio.ru/disco96.aacp
+#EXTINF:-1 tvg-name="DFM Pop Gold" group-title="Музыка", DFM Pop Gold
+#EXTGRP:Музыка
+https://dfm-handsup.hostingradio.ru/handsup96.aacp
+#EXTINF:-1 tvg-name="DFM Chill" group-title="Музыка", DFM Chill
+#EXTGRP:Музыка
+https://dfm-dfmchill.hostingradio.ru/dfmchill96.aacp
+#EXTINF:-1 tvg-name="DFM Rap" group-title="Музыка", DFM Rap
+#EXTGRP:Музыка
+https://dfm-dfmrap.hostingradio.ru/dfmrap96.aacp
+#EXTINF:-1 tvg-name="DFM K-POP" group-title="Музыка", DFM K-POP
+#EXTGRP:Музыка
+https://dfm-kpop.hostingradio.ru/kpop96.aacp
+#EXTINF:-1 tvg-name="DFM РУССКИЙ РЕЙВ" group-title="Музыка", DFM РУССКИЙ РЕЙВ
+#EXTGRP:Музыка
+https://dfm-russianrave.hostingradio.ru/russianrave96.aacp
+#EXTINF:-1 tvg-name="DFM Russian Dance" group-title="Музыка", DFM Russian Dance
+#EXTGRP:Музыка
+https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp
+#EXTINF:-1 tvg-name="DFM Russian Gold" group-title="Музыка", DFM Russian Gold
+#EXTGRP:Музыка
+https://dfm-pump.hostingradio.ru/pump96.aacp
+#EXTINF:-1 tvg-name="DFM ДИСКАЧ 90-Х" group-title="Музыка", DFM ДИСКАЧ 90-Х
+#EXTGRP:Музыка
+https://dfm-disc90.hostingradio.ru/disc9096.aacp
+#EXTINF:-1 tvg-name="DFM ГРУСТНЫЙ ДЭНС" group-title="Музыка", DFM ГРУСТНЫЙ ДЭНС
+#EXTGRP:Музыка
+https://dfm-saddance.hostingradio.ru/saddance96.aacp
+#EXTINF:-1 tvg-name="DFM КАЛЬЯН РЭП" group-title="Музыка", DFM КАЛЬЯН РЭП
+#EXTGRP:Музыка
+https://dfm-kalianrap.hostingradio.ru/kalianrap96.aacp

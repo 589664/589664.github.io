@@ -35,7 +35,6 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 #EXTINF:-1 tvg-id="VevoPop.us" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Music",Vevo Pop Europe (1080p)
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
-
 #EXTINF:-1 tvg-id="MTVHitsFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" group-title="Music",MTV Hits France (720p) [Not 24/7]
 http://190.2.155.162:8080/mtvhit/mpegts
 
@@ -97,30 +96,10 @@ http://178.163.6.2:81/udp/234.0.0.172:2000?zone/
 #EXTINF:-1 tvg-name="Мир" group-title="Russian",Мир
 http://178.163.6.2:81/udp/234.0.0.5:2000?zone/
 
-#EXTINF:-1 tvg-id="Animax.jp" group-title="Japan",Animax
-https://cdn.us195.jpnettv.live/jptv/janimax_720/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoRB.us" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Music",Pluto TV VEVO R&B (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="BSAsahi.jp" group-title="Japan",BSAsahi
-http://cdn.us195.jpnettv.live:1935/jptv/bsasahi_720/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoReggaetonTrap.us" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" group-title="Music",Pluto TV VEVO Reggeaton & Trap (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="BSNipponTV.jp" group-title="Japan",BSNipponTV
-http://cdn.us195.jpnettv.live:1935/jptv/bsnihontv_720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BSTBS.jp" group-title="Japan",BSTBS
-http://cdn.us195.jpnettv.live:1935/jptv/bstbs_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BSTVTokyo.jp" group-title="Japan",BSTVTokyo
-http://cdn.us195.jpnettv.live:1935/jptv/bsjapan_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOAXDTV.jp" group-title="Japan",Nippon TV (JOAXD-TV)
-https://cdn.us195.jpnettv.live/jptv/kanto_nippon_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NHKBS1.jp" group-title="Japan",NHK BS1
-http://cdn.us195.jpnettv.live:1935/jptv/nhkbs1_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="Japan",NHK World Japan
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/live
-
-#EXTINF:-1 tvg-id="TokyoMX1.jp" status="online",Tokyo MX1 (720p) group-title="Japan"
-#EXTINF:-1 tvg-id="TokyoMX1.jp" group-title="Japan",Tokyo MX1
-https://movie.mcas.jp/mcas/mx1_2/master.m3u8
